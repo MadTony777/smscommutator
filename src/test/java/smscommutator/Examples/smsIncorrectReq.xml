@@ -1,0 +1,5 @@
+<sch:SimpleSendSMSRequest xmlns:sch="http://unitarius.ru/mgw/ws/schema">
+    <sch:To>${phoneNumber}</sch:To>
+    <sch:Text>Тестовое СМС 1</sch:Text>
+    <sch:Text>Тестовое СМС 2</sch:Text>
+</sch:SimpleSendSMSRequest>
